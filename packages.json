@@ -1,0 +1,15 @@
+{
+    "packages":{
+        "name": "MateusManzoli/composer_aprendizagem",
+        "version": "1.0.0",
+        "dist": {
+            "url": "https://github.com/MateusManzoli/composer_aprendizagem",
+            "type": "zip"
+        },
+        "source": {
+            "url": "https://github.com/MateusManzoli/composer_aprendizagem",
+            "type": "git",
+            "reference": ""
+        }
+    }
+}
