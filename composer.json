@@ -1,0 +1,8 @@
+{
+    "minium-stability": "dev",
+    "require": {
+        "silex/silex": "1.0.*",
+        "monolog/monolog": "*",
+        "sybio/image-workshop": "*"
+    }
+}
